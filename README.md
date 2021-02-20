@@ -9,6 +9,6 @@ For that you need to set the ip of kodi as a parameter:
   http://<myhost>/youtubelist.php?ip=192.178.1.40
 
 
-![Screenshot](https://github.com/tobias-d-oe/youtubelist4mediola/blob/main/youtube-main.png?raw=true)
-![Screenshot](https://github.com/tobias-d-oe/youtubelist4mediola/blob/main/youtube-isearch.png?raw=true)
+![Screenshot-Main](https://github.com/tobias-d-oe/youtubelist4mediola/blob/main/youtube-main.png?raw=true)
+![Screenshot-Search](https://github.com/tobias-d-oe/youtubelist4mediola/blob/main/youtube-search.png?raw=true)
 
